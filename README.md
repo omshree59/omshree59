@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<AI tech >👯 I’m looking to collaborate on<ui development>🤝 I’m looking for help with<br>🌱 I’m currently learning<JS>💬 Ask me about<on instagram>
+🔭 I’m currently working on AI tech
+👯 I’m looking to collaborate on UI development
+🤝 I’m looking for help with gamification in EDTECH
+🌱 I’m currently learningJS
+💬 Ask more on  --instagram--
 
 
 ## 🌐 Socials:
