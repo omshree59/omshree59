@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on AI tech<br> 👯 I’m looking to collaborate on UI development<br> 🤝 I’m looking for help with gamification in EDTECH <br>🌱 I’m currently learningJS <br>💬 Ask more on --instagram-
+# Hi there, I'm Omshree ! 👋
+
+I am a software developer with a strong passion for Artificial Intelligence, Fullstack Web Development, and creating tech that makes an impact. I am actively diving into the Open Source community and love tackling new challenges. 
+
+### 🔭 What I'm currently working on
+* **CivicFix AI:** An AI-driven project focused on environmental sustainability and smart waste management.
+* **Cloud9:** My personal AI chatbot project.
+* **Open Source:** Actively contributing to Next.js and React-based repositories.
+
+### 💻 My Tech Stack
+* **Languages:** C, C++, Java, JavaScript, Python, SQL
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, Flask
+* **Concepts:** Data Structures & Algorithms, Machine Learning (Regression Models), Database Management
+
+### 🌱 What I'm exploring next
+* Deepening my knowledge in Data Science and Advanced Algorithms.
+* Building out more complex fullstack clones (like my recent Spotify clone!).
+
+### ⚡ Outside of coding
+When I'm not debugging or pushing PRs, you can find me analyzing K-drama plotlines, exploring the grounds in Hogwarts Legacy, or dropping into Modern Warfare 3.
 
 
 ## 🌐 Socials:
