@@ -6,17 +6,16 @@ I am a software developer with a strong passion for Artificial Intelligence, Ful
 ### 🔭 What I'm currently working on
 * **CivicFix AI:** An AI-driven project focused on environmental sustainability and smart waste management.
 * **Cloud9:** My personal AI chatbot project.
-* **Open Source:** Actively contributing to Next.js and React-based repositories.
+* **Open Source:** Actively contributing to Next.js  React-based  Python and also  AI vibe coded repositories.
 
 ### 💻 My Tech Stack
-* **Languages:** C, C++, Java, JavaScript, Python, SQL
+* **Languages:**  Java, JavaScript, Python, SQL
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Backend:** Node.js, Flask
 * **Concepts:** Data Structures & Algorithms, Machine Learning (Regression Models), Database Management
 
 ### 🌱 What I'm exploring next
 * Deepening my knowledge in Data Science and Advanced Algorithms.
-* Building out more complex fullstack clones (like my recent Spotify clone!).
 
 ### ⚡ Outside of coding
 When I'm not debugging or pushing PRs, you can find me analyzing K-drama plotlines, exploring the grounds in Hogwarts Legacy, or dropping into Modern Warfare 3.
