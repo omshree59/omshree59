@@ -18,7 +18,7 @@ I am a software developer with a strong passion for Artificial Intelligence, Ful
 * Deepening my knowledge in Data Science and Advanced Algorithms.
 
 ### ⚡ Outside of coding
-When I'm not debugging or pushing PRs, you can find me analyzing K-drama plotlines, exploring the grounds in Hogwarts Legacy, or dropping into Modern Warfare 3.
+When I'm not debugging or pushing PRs, you can find me analyzing K-drama plotlines, exploring the grounds in Hogwarts Legacy, or dropping into Modern Warfare 3 and yah yapping with all .
 
 
 ## 🌐 Socials:
