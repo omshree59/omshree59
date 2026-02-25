@@ -1,5 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Omshree ! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver)
 
 I am a software developer with a strong passion for Artificial Intelligence, Fullstack Web Development, and creating tech that makes an impact. I am actively diving into the Open Source community and love tackling new challenges. 
 
@@ -9,17 +10,30 @@ I am a software developer with a strong passion for Artificial Intelligence, Ful
 * **Open Source:** Actively contributing to Next.js  React-based  Python and also  AI vibe coded repositories.
 
 ### 💻 My Tech Stack
-* **Languages:**  Java, JavaScript, Python, SQL
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, Flask
-* **Concepts:** Data Structures & Algorithms, Machine Learning (Regression Models), Database Management
+## Core Stack
+- Frontend: React, Next.js, Tailwind
+- Backend: Node.js, Flask
+- AI/ML: Python, Pandas, PyTorch
+- Database: PostgreSQL, Firebase
 
-### 🌱 What I'm exploring next
-* Deepening my knowledge in Data Science and Advanced Algorithms.
+## 📚 Currently Exploring
+- Advanced Algorithms
+- System Design
+- AI Model Optimization
+- 
+## 🎮 Off The Terminal
 
-### ⚡ Outside of coding
-When I'm not debugging or pushing PRs, you can find me analyzing K-drama plotlines, exploring the grounds in Hogwarts Legacy, or dropping into Modern Warfare 3 and yah yapping with all .
+Strategic thinking via:
+- K-Drama psychological plot analysis
+- Competitive FPS gameplay
+- Open-world exploration mechanics
 
+ ## ⚙ Engineering Philosophy
+
+- Build for scale
+- Design for clarity
+- Optimize before complexity
+- Ship > Perfect
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call_me_omshree) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omshree-parida-1b0841319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paridaomshree@gmail.com) 
