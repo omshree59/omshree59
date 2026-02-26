@@ -20,7 +20,6 @@ I am a software developer with a strong passion for Artificial Intelligence, Ful
 - Advanced Algorithms
 - System Design
 - AI Model Optimization
-- 
 ## 🎮 Off The Terminal
 
 Strategic thinking via:
